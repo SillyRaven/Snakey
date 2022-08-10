@@ -9,3 +9,9 @@
         The problem the program solves is bordem and a new way of playing the game
 
     }
+<<<<<<< HEAD
+=======
+
+### <Development>
+    Add new code to start to automate the game
+>>>>>>> 872d6bd3923748f1c39c9ccafaf45ae47c566aa5
