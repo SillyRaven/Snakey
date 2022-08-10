@@ -1,6 +1,6 @@
 # Snakey
 
-## Why did it change my perspective?
+## <Why did it change my perspective?>
     {
         It changed my perspective of coding to see how different things can be used to make a cute game and then that game can have an AI implemented to show advance tactics to play the game at unhuman speeds
 
@@ -9,3 +9,6 @@
         The problem the program solves is bordem and a new way of playing the game
 
     }
+
+### <Development>
+    Add new code to start to automate the game
